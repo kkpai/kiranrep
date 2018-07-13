@@ -1,0 +1,15 @@
+STEPS TO USE THIS SALES MESSAGE APPLICATION:
+
+A> Run SalesMessageAppLauncher
+
+B> Note that MessageStore.txt has the different types of messages 1, 2 and 3.
+
+Type 1: Example: 1 apples 10 ==> 
+MessageType is 1 i.e sale, for apples at 10p each here
+  
+Type 2: Example: 2 15 apples 10 ==> 
+MessageType is 2 i.e sale occurrences = 15 for apples at 10p each here
+
+Type 3: Example: 3 Add 20 apples 10 ==> 
+MessageType is 3 i.e sale adjustment = Add 20p to each sale of apples at 10p each
+  

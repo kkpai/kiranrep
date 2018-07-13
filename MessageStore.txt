@@ -1,0 +1,60 @@
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 15 apples 10
+3 Add 20 apples 10
+1 coconuts 50
+1 apples 10
+2 16 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 17 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 18 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 19 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 10 apples 10
+3 Add 20 apples 10
+1 coconuts 90
+1 apples 10
+2 20 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 12 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 12 apples 10
+3 Add 20 apples 10
+1 coconuts 40
+1 apples 10
+2 10 apples 10
+3 Add 20 apples 10
+1 coconuts 40
